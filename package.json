@@ -1,0 +1,9 @@
+{
+  "name": "origin-build-git-hash",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "test project",
+  "main": "index.js",
+  "repository": "https://github.com/cameronbraid/origin-build-git-hash.git",
+  "author": "Cameron Braid <cameron@drivenow.com.au>",
+  "license": "MIT"
+}
