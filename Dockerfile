@@ -1,2 +1,5 @@
 FROM node:8
-RUN set
+WORKDIR /app
+RUN apt install git
+RUN bash -c "pwd; ls -l"
+RUN git rev-parse HEAD
